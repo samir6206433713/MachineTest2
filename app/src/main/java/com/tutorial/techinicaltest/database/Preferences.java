@@ -5,7 +5,7 @@ import android.content.SharedPreferences;
 import android.graphics.Bitmap;
 
 public class Preferences {
-
+//updated on saturday 6 feb
 
     public static final String SHARED_PREF_NAME = "mypref";
     public static final String accessToken = "accessToken";
